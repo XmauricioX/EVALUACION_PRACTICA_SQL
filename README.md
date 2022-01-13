@@ -5,4 +5,4 @@
 
 ## Preview del desafio finalizado
 
-<img src="">
+<img src="https://github.com/XmauricioX/EVALUACION_PRACTICA_SQL/blob/main/DER_SQL.PNG">
